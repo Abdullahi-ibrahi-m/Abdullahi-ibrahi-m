@@ -1,4 +1,4 @@
-## Hej! 👋
+## Hi! 👋
 
 I'm Abdullahi — a computer engineering student at KTH, Stockholm,
 graduating January 2028. Currently looking for an internship in
