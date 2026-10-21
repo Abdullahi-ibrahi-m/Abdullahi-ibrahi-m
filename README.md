@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hej! 👋
 
-<!--
-**Abdullahi-ibrahi-m/Abdullahi-ibrahi-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abdullahi — a computer engineering student at KTH, Stockholm,
+graduating January 2028. Currently looking for an internship in
+software development.
 
-Here are some ideas to get you started:
+**Studying:** B.Sc. in Engineering and Management, Computer Science track
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with:** C, Java, networking
+
+**Currently learning:** object-oriented design in Java, ethical hacking
+
+---
+
+### Projects
+
+**[SeaStrike](https://github.com/isakabrha/grupp9)** — 2D multiplayer
+game in C with SDL2 and UDP networking, built in a team of five.
+I was responsible for the lobby system and ship selection: player
+connection, state handling and synchronising choices across clients.
+
+---
+
+### Certifications
+
+Cisco CCNA: Introduction to Networks (2025)
+
+---
+
+📫 abbe_njr@hotmail.com · [LinkedIn](https://www.linkedin.com/in/abdullahi-ibrahim-8a35302b6/)
