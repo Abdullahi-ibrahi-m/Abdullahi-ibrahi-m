@@ -8,7 +8,7 @@ software development.
 
 **Working with:** C, Java, networking
 
-**Currently learning:** object-oriented design in Java, ethical hacking
+**Currently learning:** object-oriented design in Java
 
 ---
 
